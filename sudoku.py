@@ -45,6 +45,4 @@ def solve() :
                 return
     print(np.matrix(grid))
     input("mas?")
-
-
 solve()
